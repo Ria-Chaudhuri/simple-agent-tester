@@ -2,10 +2,9 @@
 
 **Build your first AI Agent in minutes, not hours.**
 
-        A zero-code CLI tool that lets you test and experiment with local AI agents using Ollama. Perfect for beginners who want to understand how AI agents work without getting lost in complex code.
+A zero-code CLI tool that lets you test and experiment with local AI agents using Ollama. Perfect for beginners who want to understand how AI agents work without getting lost in complex code.
 
 
----
 
 ## 🌟 Why This Project?
 
