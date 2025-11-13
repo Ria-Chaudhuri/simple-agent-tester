@@ -1,3 +1,6 @@
+connection:
+  base_url: "http://localhost:11434"
+
 
 agent:
   provider: "ollama"  

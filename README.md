@@ -9,13 +9,6 @@
   Perfect for beginners who want to understand AI agents without complex code
 </p>
 
-<p align="center">
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-understanding-roles-and-tasks---the-foundation-of-ai-agents">Understanding Roles & Tasks</a> •
-  <a href="#-example-use-cases">Examples</a> •
-  <a href="#-configuration-guide">Configuration</a> •
-  <a href="#-contributing">Contributing</a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
@@ -30,30 +23,12 @@
 
 ## 🌟 Why This Project?
 
-<table>
-<tr>
-<td width="50%">
-
-### ❌ Traditional Approach
-- Complex frameworks to learn
-- API keys and subscriptions
-- Data sent to external servers
-- Hundreds of lines of code
-- Expensive to experiment
-
-</td>
-<td width="50%">
-
 ### ✅ Simple Agent Tester
 - **Zero coding** - Just YAML config
 - **100% local** - Privacy guaranteed
 - **Free forever** - No hidden costs
 - **5 minutes** to first agent
 - **Production models** - Llama 3, Mistral, etc.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -841,95 +816,6 @@ connection:
 </table>
 
 **💡 Tip:** Run `ollama list` to see all locally installed models.
-
----
-
-## 🎨 Features
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎯
-**Zero-Code Interface**
-
-Configure everything through simple YAML files
-
-</td>
-<td align="center" width="33%">
-
-### 🎨
-**Beautiful Terminal**
-
-Rich formatting with colors and panels
-
-</td>
-<td align="center" width="33%">
-
-### ⚡
-**Streaming Responses**
-
-See results as they're generated
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🔒
-**100% Private**
-
-All processing happens locally
-
-</td>
-<td align="center">
-
-### 🧪
-**Instant Testing**
-
-Test different prompts in seconds
-
-</td>
-<td align="center">
-
-### 📝
-**Clear Errors**
-
-Helpful guidance when things go wrong
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🔄
-**Easy Switching**
-
-Try different models with one line
-
-</td>
-<td align="center">
-
-### 🚀
-**Production Ready**
-
-Use powerful, production-grade models
-
-</td>
-<td align="center">
-
-### 💰
-**Free Forever**
-
-No API keys or subscriptions needed
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
