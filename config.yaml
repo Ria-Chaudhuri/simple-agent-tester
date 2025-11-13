@@ -1,0 +1,22 @@
+
+# ===============================================
+#   Simple Agent Tester Config (Ollama)
+# ===============================================
+#
+# 1. Make sure Ollama is running and you have downloaded a model
+#    (e.g., run: ollama pull llama3)
+#
+# 2. (Optional) Set your Ollama server's URL if it's not on localhost.
+# 3. Define your agent's 'role' and 'task'.
+# 4. Specify the 'model' name.
+#
+# Then run: agent-tester run
+#
+
+connection:
+  base_url: "http://localhost:11434"
+
+agent:
+  model: "llama3" # Or "mistral", "gemma:2b", etc.
+  role: "You are an expert travel planner. You create concise, bulleted itineraries."
+  task: "Create a 3-day weekend itinerary for a first-time visitor to Tokyo."

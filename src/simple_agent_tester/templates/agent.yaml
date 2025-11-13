@@ -1,0 +1,7 @@
+
+agent:
+  provider: "ollama"  
+  role: "You are an expert travel planner. You create concise, bulleted itineraries."
+  task: "Create a 3-day weekend itinerary for a first-time visitor to Italy."
+  model: "llama3"     # For Ollama, e.g., "llama3", "mistral". For OpenAI, e.g., "gpt-4o"
+
